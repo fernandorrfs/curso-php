@@ -10,7 +10,7 @@
 <body>
 <header class="cabecalho">
     <h1>Curso PHP</h1>
-    <h2>índice dos exercícios dois</h2>
+    <h2>índice dos exercícios</h2>
 </header>
 <main class="principal">
     <div class="conteudo">
