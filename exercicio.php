@@ -14,12 +14,14 @@
     <h2>Visualização do exercício</h2>
 </header>
 <nav class="navegacao">
-    <a href="#" class="verde">Sem formatação</a>
+    <a href="<?= "{$_GET['dir']}/{$_GET['arq']}.php" ?>" class="verde">Sem formatação</a>
     <a href="index.php" class="vermelho">Voltar</a>
 </nav>
 <main class="principal">
     <div class="conteudo">
-
+        <?php
+            include("{$_GET['dir']}/{$_GET['arq']}.php");
+        ?>
     </div>
 </main>
 <footer class="rodape">
