@@ -26,6 +26,7 @@
                 <h3>Módulo 02</h3>
                 <ul>
                     <li><a href="exercicio.php?dir=variaveis&arq=basico">Variáveis básicas</a></li>
+                    <li><a href="exercicio.php?dir=variaveis&arq=variaveis_variaveis">Variáveis variáveis</a></li>
                 </ul>
             </div>
             <div class="modulo verde">
