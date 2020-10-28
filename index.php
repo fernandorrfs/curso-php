@@ -31,9 +31,9 @@
                 </ul>
             </div>
             <div class="modulo verde">
-                <h3>Módulo 03</h3>
+                <h3>Controle</h3>
                 <ul>
-
+                    <li><a href="exercicio.php?dir=controle&arq=if">if/else</a></li>
                 </ul>
             </div>
             <div class="modulo cinza">
