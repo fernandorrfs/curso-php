@@ -37,9 +37,9 @@
                 </ul>
             </div>
             <div class="modulo cinza">
-                <h3>Módulo 04</h3>
+                <h3>Arrays</h3>
                 <ul>
-
+                    <li><a href="exercicio.php?dir=array&arq=basico">Array</a></li>
                 </ul>
             </div>
         </nav>
